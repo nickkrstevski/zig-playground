@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Alice Smith",
+        "title": "Chief Executive Officer",
+        "join_date": "2015-01-12",
+        "reports_to": null
+    },
+    {
+        "name": "Bob Johnson",
+        "title": "Director of Engineering",
+        "join_date": "2017-03-14",
+        "reports_to": "Alice Smith"
+    },
+    {
+        "name": "Dana White",
+        "title": "Director of Operations",
+        "join_date": "2018-08-23",
+        "reports_to": "Alice Smith"
+    },
+    {
+        "name": "Charlie Brown",
+        "title": "Engineering Manager",
+        "join_date": "2019-06-01",
+        "reports_to": "Bob Johnson"
+    },
+    {
+        "name": "Eve Black",
+        "title": "Operations Manager",
+        "join_date": "2020-04-19",
+        "reports_to": "Dana White"
+    },
+    {
+        "name": "Frank Green",
+        "title": "Operations Manager",
+        "join_date": "2022-02-11",
+        "reports_to": "Dana White"
+    },
+    {
+        "name": "Grace Hopper",
+        "title": "Principal Engineer",
+        "join_date": "2021-10-05",
+        "reports_to": "Charlie Brown"
+    },
+    {
+        "name": "Heidi Lamarr",
+        "title": "Senior Engineer",
+        "join_date": "2022-11-02",
+        "reports_to": "Charlie Brown"
+    },
+    {
+        "name": "Ivan Petrov",
+        "title": "QA Lead",
+        "join_date": "2020-09-15",
+        "reports_to": "Bob Johnson"
+    },
+    {
+        "name": "Julia Alvarez",
+        "title": "HR Specialist",
+        "join_date": "2021-03-08",
+        "reports_to": "Dana White"
+    },
+    {
+        "name": "Ken Thompson",
+        "title": "Staff Engineer",
+        "join_date": "2023-07-21",
+        "reports_to": "Grace Hopper"
+    },
+    {
+        "name": "Laura Chen",
+        "title": "Finance Manager",
+        "join_date": "2019-12-10",
+        "reports_to": "Dana White"
+    }
+]
